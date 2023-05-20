@@ -1,0 +1,7 @@
+.box{
+    height:100px;
+    width:100px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: blueviolet;
+}
